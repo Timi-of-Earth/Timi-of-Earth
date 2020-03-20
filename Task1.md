@@ -1,4 +1,5 @@
-Full Nmae: Shodiya Oluwatimilehin
+Full Name: Shodiya Oluwatimilehin
 Email Address: shodiyatimilehin@gmail.com
 Slack Username: Timi-of-Earth
-Courses: Front End, Design
+Tracks: Front End, Design
+Courses: HTML/CSS, Javascript, Design
